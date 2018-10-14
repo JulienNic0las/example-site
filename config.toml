@@ -1,4 +1,4 @@
-baseurl = "https://example-hugo-site.org/"
+baseurl = "https://JulienNic0las.github.io/example-site/"
 title = "My first dummy website"
 publishDir = "Docs"
 theme = "hugo-creative-portfolio-theme"
