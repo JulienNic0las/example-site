@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My first dummy website</title>
+    <link>https://JulienNic0las.github.io/example-site/post/</link>
+    <description>Recent content in Posts on My first dummy website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 13:47:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://JulienNic0las.github.io/example-site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://JulienNic0las.github.io/example-site/post/first-post/</link>
+      <pubDate>Sun, 14 Oct 2018 13:47:40 +0200</pubDate>
+      
+      <guid>https://JulienNic0las.github.io/example-site/post/first-post/</guid>
+      <description>Information Billon is a G</description>
+    </item>
+    
+  </channel>
+</rss>
